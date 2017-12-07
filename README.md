@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://www.crelotech.com/images/malay.png" />
-</p>
-
 # Stealth Kid RAT
 <p align="left">
     <a href="#backers" alt="Backers on Open Collective">
