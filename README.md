@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.crelotech.com/stealthkid.png" />
+    <img src="https://www.crelotech.com/images/sklogo.png" />
 </p>
 
 # Stealth Kid RAT
