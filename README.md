@@ -3,7 +3,7 @@
 </p>
 
 # Stealth Kid RAT
-<img scr="https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200" />
+(https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200")
 
 
 Codename: Kiddo
