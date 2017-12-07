@@ -3,7 +3,7 @@
 </p>
 
 # Stealth Kid RAT
-[![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://www.crelotech.com/en-MY/devel/software.html)
+[![Build Status](https://img.shields.io/badge/Development-Dormant-red.svg?style=plastic?maxAge=7200)](https://www.crelotech.com/en-MY/devel/software.html)
 
 
 Codename: Kiddo
