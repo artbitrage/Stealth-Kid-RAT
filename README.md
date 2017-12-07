@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://rawgit.com/badges/shields/master/static/logo.svg" />
+    <img src="https://www.crelotech.com/images/github/sklogo.png" />
 </p>
 
 # Stealth Kid RAT
