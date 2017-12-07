@@ -3,10 +3,10 @@
 </p>
 
 # Stealth Kid RAT
-====
+[![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://travis-ci.org/nmap/nmap)
 
 
-Codename: Kiddo [![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://travis-ci.org/nmap/nmap)
+Codename: Kiddo
 
 Stealth Kid RAT is an opensource remote administration tool mainly written in C.
 
