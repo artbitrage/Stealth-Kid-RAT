@@ -1,2 +1,4 @@
-# StalkKid
-StalkKid is an opensource Linux remote administration tool mainly written in C.
+# Stealth Kid RAT
+Codename: Kiddo
+
+Stealth Kid RAT is an opensource remote administration tool mainly written in C.
