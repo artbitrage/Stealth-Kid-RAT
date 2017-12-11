@@ -6,7 +6,7 @@
     </a>
 </p>
 
-##Codename: Alpha (Concept)
+## Codename: Alpha (Concept)
  
 Stealth Kid RAT is an opensource remote administration tool mainly written in C.
 
