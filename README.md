@@ -1,7 +1,7 @@
 # Stealth Kid RAT
 
 <p align="left">
-    <a href="#">
+    <a href="https://github.com/SyafiqHadzir/Stealth-Kid-RAT/blob/Concept/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT%20%2F%20Apache--2.0-blue.svg?style=plastic?maxAge=7200" alt="License - MIT">
     </a>
 </p>
