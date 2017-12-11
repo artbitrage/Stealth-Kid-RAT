@@ -1,4 +1,11 @@
 # Stealth Kid RAT
+
+<p align="left">
+    <a href="#">
+        <img src="https://img.shields.io/badge/License-MIT%20%2F%20Apache--2.0-blue.svg?style=plastic?maxAge=7200" alt="License - MIT">
+    </a>
+</p>
+
 Codename: Kiddo (Concept)
  
 Stealth Kid RAT is an opensource remote administration tool mainly written in C.
