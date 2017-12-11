@@ -1,4 +1,4 @@
-# Stealth Kid RAT
+# Stealth Kid RAT (Concept)
 
 <p align="left">
     <a href="https://github.com/SyafiqHadzir/Stealth-Kid-RAT/blob/Concept/LICENSE">
@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Codename: Kiddo (Concept)
+Codename: Alpha (Concept)
  
 Stealth Kid RAT is an opensource remote administration tool mainly written in C.
 
