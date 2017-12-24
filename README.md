@@ -14,6 +14,25 @@ Stealth Kid RAT is an opensource remote administration tool written in C.
 
 * Secure connection between Client & Server
 
+**Installation**
+
+SK-RAT needs The GNU Compiler Collection (GCC) compiler to run.
+
+Install the client and server by compiling the source codes.
+
+Server (server.c)
+
+```sh
+$ gcc -o server server.c
+$ ./server
+```
+
+Client (client.c)
+
+```sh
+$ gcc -o client client.c
+$ ./client
+```
 
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
