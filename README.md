@@ -16,7 +16,7 @@ Codename: Kiddo
 
 Stealth Kid RAT is an opensource remote administration tool written in C.
 
-
+Currently delevoped under POC section.
 
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
