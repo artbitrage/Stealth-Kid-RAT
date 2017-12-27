@@ -10,18 +10,22 @@
     <img src="https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200" alt="Development - Active">
 </p>
 
+
 **Codename: Alpha (Concept)**
  
 Stealth Kid RAT is an opensource remote administration tool written in C.
+
 
 **Currently developed features:**
 
 * Secure connection between Client & Server
 
+
 **Currently under development:**
 
 * Secure TCP-UDP file transfer connection between Client & Server
 * TCP network stream (IPv4 & IPv6 support)
+
 
 **Installation**
 
