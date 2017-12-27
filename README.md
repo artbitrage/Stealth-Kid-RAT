@@ -18,6 +18,14 @@ Stealth Kid RAT is an opensource remote administration tool written in C.
 
 Currently delevoped under POC section.
 
+**Under development features:-**
+
+* TCP network stream (IPv4 & IPv6 support)
+* Fast network serialization (NetSerializer)
+* Compressed (QuickLZ) & Encrypted (AES-128) communication
+* Multi-Threaded
+* File Transfer via TCP & UDP Connection
+
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
 Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
