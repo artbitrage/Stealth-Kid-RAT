@@ -9,6 +9,7 @@ Function: File Transfer
 Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
 *************************************/
 
+#include <stdio.h>
 #include <arpa/inet.h>
 #include <unistd.h>
 
