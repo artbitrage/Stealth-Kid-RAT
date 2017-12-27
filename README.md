@@ -26,6 +26,8 @@ Currently delevoped under POC section.
 * Multi-Threaded
 * File Transfer via TCP & UDP Connection
 
+The SKR project is fully developed and tested on Debian GNU-Linux (Deb 9.3 "Stretch") platform. The RAT will soon be available on Windows platform by mid 2018.
+
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
 Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
