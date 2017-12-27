@@ -5,8 +5,9 @@
         <img src="https://img.shields.io/badge/License-MIT%20%2F%20Apache--2.0-blue.svg?style=plastic?maxAge=7200" alt="License - MIT">
     </a>
     <a href="https://github.com/SyafiqHadzir/Stealth-Kid-RAT/tree/Concept/dev/file-transfer/TCP/bin">
-        <img src="https://img.shields.io/badge/Build-Passed-brightgreen.svg?style=plastic?maxAge=7200" alt="License - MIT">
+        <img src="https://img.shields.io/badge/Build-Passed-brightgreen.svg?style=plastic?maxAge=7200" alt="Build - Passed">
     </a>
+    <img src="https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200" alt="Development - Active">
 </p>
 
 **Codename: Alpha (Concept)**
