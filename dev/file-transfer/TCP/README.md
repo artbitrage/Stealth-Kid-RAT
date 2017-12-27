@@ -9,6 +9,4 @@
 
 **Proof Of Concept**
 
-Wireshark Packet Capture File (WPCF) is available via <a href="https://github.com/SyafiqHadzir/Stealth-Kid-RAT/tree/Concept/dev/file-transfer/TCP/bin">
-        <img src="https://img.shields.io/badge/Build-Passed-brightgreen.svg?style=plastic?maxAge=7200" alt="Build - Passed">
-    </a>
+The Wireshark Packet Capture File (WPCF) for this TCP file transfer function is available on <a href="https://docs.kixcat.com/">https://docs.kixcat.com/</a>
