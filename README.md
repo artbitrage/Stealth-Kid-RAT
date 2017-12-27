@@ -21,6 +21,7 @@ Stealth Kid RAT is an opensource remote administration tool written in C.
 **Currently under development:**
 
 * Secure TCP-UDP file transfer connection between Client & Server
+* TCP network stream (IPv4 & IPv6 support)
 
 **Installation**
 
