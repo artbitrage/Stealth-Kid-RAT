@@ -1,2 +1,5 @@
-gcc -o server.c server
-gcc -o client.c client
+client: server
+	gcc client.c -o client -lnsl
+
+server:
+	gcc server.c -o server -lnsl 
