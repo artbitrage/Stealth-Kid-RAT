@@ -36,14 +36,14 @@ Install the client and server by compiling the source codes.
 Server (server.c)
 
 ```sh
-$ gcc -o server server.c
+$ gcc server.c -o server -lnsl
 $ ./server
 ```
 
 Client (client.c)
 
 ```sh
-$ gcc -o client client.c
+$ gcc client.c -o client -lnsl
 $ ./client
 ```
 
