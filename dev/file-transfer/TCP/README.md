@@ -9,7 +9,7 @@
 
 **Proof Of Concept**
 
-The Wireshark Packet Capture File (WPCF) for this TCP file transfer function is available to download here:-
+The Wireshark Packet Capture File (PCAP) for this TCP file transfer function is available to download here:-
 
 <a href="https://docs.kixcat.com/SK-RAT/TCP-POC.pcapng">https://docs.kixcat.com/SK-RAT/TCP-POC.pcapng</a>
 
