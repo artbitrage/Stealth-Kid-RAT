@@ -36,5 +36,3 @@ clean :
 mrproper : clean but
 
 .PHONY : but clean mrproper
-
-# fin du Makefile
