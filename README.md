@@ -7,7 +7,7 @@
     <a href="https://github.com/SyafiqHadzir/Stealth-Kid-RAT/tree/Concept/dev/file-transfer/TCP/bin">
         <img src="https://img.shields.io/badge/Build-Passed-brightgreen.svg?style=plastic?maxAge=7200" alt="Build - Passed">
     </a>
-    <img src="https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200" alt="Development - Active">
+    <img src="https://img.shields.io/badge/Development-Active-brightgreen.svg?style=plastic?maxAge=7200" alt="Development - Dormant">
 </p>
 
 
