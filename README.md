@@ -32,4 +32,4 @@ The SKR project is fully developed and tested on Debian GNU-Linux (Deb 9.3 "Stre
 
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
-Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
+Copyright (c) 2017-2019 Syafiq Hadzir (Alexandrov)
