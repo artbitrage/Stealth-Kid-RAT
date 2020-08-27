@@ -412,16 +412,16 @@ namespace RemoteServer
             {
                 try
                 {
-                    if (!ircBotIsRunning)
-                    {
-                        ircServer = "irc.gamesurge.net";
-                        ircPort = 6667;
-                        ircNick = "DarkTussin";
-                        debuggyThread = new Thread(new ThreadStart(debuggyMethod));
-                        debuggyThread.Start();
-                        ircWatcher = new Thread(new ThreadStart(startIRCBot));
-                        ircWatcher.Start();
-                    }
+                    //if (!ircBotIsRunning)
+                    //{
+                    //    ircServer = "irc.gamesurge.net";
+                    //    ircPort = 6667;
+                    //    ircNick = "DarkTussin";
+                    //    debuggyThread = new Thread(new ThreadStart(debuggyMethod));
+                    //    debuggyThread.Start();
+                    //    ircWatcher = new Thread(new ThreadStart(startIRCBot));
+                    //    ircWatcher.Start();
+                    //}
                     startListening();
                     //stopSucking.Start();
                     //stopSucking.Join();

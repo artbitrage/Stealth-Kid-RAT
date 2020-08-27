@@ -60,10 +60,7 @@
             this.Name = "Screen";
             this.Text = "SKR Screen";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Screen_FormClosed);
-            this.Load += new System.EventHandler(this.Form2_Load);
-            this.ResizeEnd += new System.EventHandler(this.Form2_ResizeEnd);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Screen_KeyUp);
-            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form2_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.theImage)).EndInit();
             this.ResumeLayout(false);
 
