@@ -16,7 +16,7 @@ Codename: Kiddo
 
 Version: 0.01A
 
-Stealth Kid RAT is an opensource remote administration tool written in C.
+Stealth Kid RAT is an opensource remote administration tool written in C#.
 
 Currently delevoped under POC Concept branch.
 
@@ -28,8 +28,8 @@ Currently delevoped under POC Concept branch.
 * Multi-Threaded
 * File Transfer via TCP & UDP Connection
 
-The SKR project is fully developed and tested on Debian GNU-Linux (Deb 9.3 "Stretch") platform. The RAT will soon be available on Windows platform by mid 2018.
+The SKR project is fully developed and tested on Debian GNU-Linux (Deb 9.8 "Stretch") platform. The RAT will soon be available on Windows platform by mid 2018.
 
 Disclaimer: Stealth Kid RAT source code is written intentionally for **EDUCATIONAL PURPOSES ONLY**. Don't use them for illegal activities.
 
-Copyright (c) 2017-2019 Syafiq Hadzir (Alexandrov)
+Copyright (c) 2017-2020 Syafiq Hadzir (Alexandrov)
